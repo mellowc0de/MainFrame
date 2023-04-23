@@ -13,3 +13,5 @@ Included in MainFrame:
 - Invoices
 - Cases
 - Opportunity
+
+To begin setup, follow the wiki here [MainFrame Wiki]()
