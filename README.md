@@ -14,4 +14,4 @@ Included in MainFrame:
 - Cases
 - Opportunity
 
-To begin setup, follow the wiki here [MainFrame Wiki]()
+To begin setup, follow the wiki here [MainFrame Wiki](Home)
